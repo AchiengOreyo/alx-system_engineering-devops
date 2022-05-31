@@ -1,0 +1,1 @@
+Task O - creates an alias ls with value rm
